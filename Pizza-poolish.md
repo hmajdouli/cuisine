@@ -7,8 +7,8 @@ Recette de la pizza avec la technique poolish, pâte pré-fermentée liquide, di
 
 - 300 ml eau
 - 300 g farine
-- 5g levure sèche
-- 5g miel
+- 3g levure sèche
+- 3g miel
 
 Dans un tupperware ou tout autre contenant qui se ferme, mettre l'eau, la levure et le miel. Mélanger avec une cuillère.
 Ajouter la farine. Mélanger avec la même cuillère.  Fermer le contenant puis laisser dehors 1H. Laisser au réfrigérateur 16-48H
