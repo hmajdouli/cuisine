@@ -15,11 +15,11 @@ Sel
 4 c à soupe d'huile d'olive pour la cuisson 
 
 # ETAPES
-1 - Mettre aubergines, tomates, poivrons rouges au four à 180 pendant une heure
-2 - Faire revenir l'ail dans l'huile
-3 - Ajouter les tomates et faire revenir
-4 - Ajouter coriandre, piment doux et paprika
-5 - Ajouter les poivrons et faire revenir
-6 - Ajouter les aubergines et faire revenir
-7 - Faire réduire si nécessaire
-8 - Ajouter le cumin et faire revenir 2-3 minutes
+- Mettre aubergines, tomates, poivrons rouges au four à 180 pendant une heure
+- Faire revenir l'ail dans l'huile
+- Ajouter les tomates et faire revenir
+- Ajouter coriandre, piment doux et paprika
+- Ajouter les poivrons et faire revenir
+- Ajouter les aubergines et faire revenir
+- Faire réduire si nécessaire
+- Ajouter le cumin et faire revenir 2-3 minutes
